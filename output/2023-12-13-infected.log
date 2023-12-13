@@ -1,0 +1,8 @@
+datetime="2023-12-13 23:05:55",scan_id="7ddb54ae-144b-4ddb-9561-8bd65aaa4499",
+os="Darwin",hostname="kairos-hkui-MacBookPro.local",ip="172.20.10.3",
+infected_file="/Users/kairos-hk/Desktop/백업/anti-virus-gbsw/dummy.txt",
+sha256="275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f",
+created_at="2023-12-04 20:08:49",modified_at="2023-12-04 20:08:49"
+
+
+datetime="2023-12-13 23:06:01",scan_id="7a4572d5-a54b-4bad-9f8e-990c81739920",os="Darwin",hostname="kairos-hkui-MacBookPro.local",ip="172.20.10.3",infected_file="/Users/kairos-hk/Desktop/백업/anti-virus-gbsw/dummy.txt",sha256="275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f",created_at="2023-12-04 20:08:49",modified_at="2023-12-04 20:08:49"
